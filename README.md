@@ -1,10 +1,4 @@
-A brief description of what this project does and who it's for
-
-Here's a detailed README template for TimeChronos project:
-
----
-
-# TimeChronos - Weekly Timesheet Management System
+# TimeChronos - Weekly Timesheet Management System 
 
 TimeChronos is a comprehensive solution for managing employee timesheets on a weekly basis. Built with Python, Flask, and PostgreSQL, this application is designed to simplify time tracking and enhance organizational productivity. The project is deployed on AWS using Zappa for seamless scalability and management.
 
