@@ -111,7 +111,7 @@ TimeChronos is a comprehensive solution for managing employee timesheets on a we
 ## API Endpoints
 
 | Method | Endpoint         | Description                      |
-|--------|------------------|----------------------------------|                   |
+|--------|------------------|----------------------------------|   
 | POST   | `/login`         | Employee/Admin login            |
 | POST   | `/register`     | Submit timesheet data      
 | POST   | `/addtimesheet`     | Add timesheet data        |
