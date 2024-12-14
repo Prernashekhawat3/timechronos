@@ -120,7 +120,9 @@ TimeChronos is a comprehensive solution for managing employee timesheets on a we
 ---
 
 ## Screenshots
-![Login Screenshot]([images/dashboard.png](https://github.com/Prernashekhawat3/timechronos/blob/main/Screenshot%20(1).png))
+
+![Login Screenshot](https://github.com/Prernashekhawat3/timechronos/blob/main/Screenshot%20(1).png)
+![Signup Screenshot](https://github.com/Prernashekhawat3/timechronos/blob/main/Screenshot%20(2).png)
 
 
 ## Contact
